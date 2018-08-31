@@ -19,7 +19,7 @@ It's almost impossible to get hard numbers on diversity in technology companies 
 
 An interdisciplinary team including journalists and computer scientists from Stanford University collected police stop data from all over the country, analyzed the dataset and open-sourced it for others to use.
 
+[I Want To Go Home Forever: Stories of Becoming and Belonging in South Africa's Great Metropolis] (http://iwanttogohomeforever.com/) Oral history collection published by Wits Press, co-edited by journalist Tanya Pampalone, managing editor, Global Investigative Journalism Network, and research professor at the African Centre for Migration and Society, University of the Witwatersrand, Loren B. Landau
 
-
-
+This project tells the story of migration and xenophobia in Gauteng, South Africa's wealthiest province and the economic engine of the continent. With the help of 13 narrators, who shared their stories with 13 researchers, academics and journlaists who crafted their raw interviews into compelling stories, this project aimed to complicate the narrative around xenophobia and migration issues in South Africa.
 
